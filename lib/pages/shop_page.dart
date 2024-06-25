@@ -60,7 +60,7 @@ class _ShopPageState extends State<ShopPage> {
             children: [
               //heading message
               const Text(
-                'How would you like your pippo?',
+                'How would you like your coffee?',
                 style: TextStyle(fontSize: 20),
               ),
               const SizedBox(height: 25),
