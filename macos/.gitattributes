@@ -5,7 +5,13 @@
 *.cmake linguist-language=ignore
 CMakeLists.txt linguist-language=ignore
 
+# Ignora i file Makefile
+Makefile linguist-language=ignore
+
 # Ignora altri file che potrebbero influenzare la classificazione
 *.cpp linguist-language=ignore
 *.h linguist-language=ignore
 *.c linguist-language=ignore
+*.sh linguist-language=ignore
+*.bat linguist-language=ignore
+Dockerfile linguist-language=ignore
