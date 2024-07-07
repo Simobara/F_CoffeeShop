@@ -10,8 +10,8 @@
 ![Codecov](https://img.shields.io/badge/CodeCov-88%25-blue)
 ![PullReq](https://img.shields.io/badge/PullReq-171%20open-blue)
 
-![Stars](https://img.shields.io/github/stars/Simobara/F_TrueFalse?style=social)
-![Forks](https://img.shields.io/github/forks/Simobara/F_TrueFalse?style=social)
+![Stars](https://img.shields.io/github/stars/Simobara/F_CoffeeShop?style=social)
+![Forks](https://img.shields.io/github/forks/Simobara/F_CoffeeShop?style=social)
 
 
 ## Demo
