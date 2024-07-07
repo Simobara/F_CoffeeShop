@@ -1,0 +1,18 @@
+# Forza GitHub a classificare il progetto come Dart
+*.dart linguist-language=Dart
+
+# Tratta tutti i file Makefile come Dart
+Makefile linguist-language=Dart
+*.mk linguist-language=Dart
+
+# Ignora i file CMake
+*.cmake linguist-language=ignore
+CMakeLists.txt linguist-language=ignore
+
+# Ignora altri file che potrebbero influenzare la classificazione
+*.cpp linguist-language=ignore
+*.h linguist-language=ignore
+*.c linguist-language=ignore
+*.sh linguist-language=ignore
+*.bat linguist-language=ignore
+Dockerfile linguist-language=ignore
